@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./"

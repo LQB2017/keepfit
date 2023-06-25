@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbcb94f7d825f766",
+        "id": "fb6b34b90bad05a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ee55503883935d15",
+            "id": "28f85bb990ade671",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37e934310c9458fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/训练动作/卷腹波比.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/训练动作/卷腹波比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/训练动作/卷腹波比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/README.md"
+                "file": "docs/训练动作/卷腹波比.md"
               }
             }
           }
@@ -152,43 +166,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee55503883935d15",
+  "active": "827a58dc461de3f5",
   "lastOpenFiles": [
-    "docs/训练动作/髋外展肌拉伸.md",
+    "docs/训练动作/开合跳.md",
+    "docs/CNAME",
+    "docs/CNAME~",
+    "CNAME",
     "docs/README.md",
-    "docs/训练动作/胸肌拉伸.md",
-    "docs/训练动作/斜方肌拉伸.md",
-    "docs/训练动作/Pasted image 20230625212209.png",
-    "docs/训练动作/Pasted image 20230625212156.png",
-    "docs/训练动作/Pasted image 20230625212121.png",
-    "docs/训练动作/Pasted image 20230625212107.png",
-    "docs/训练动作/背阔肌拉伸.md",
-    "docs/训练动作/Pasted image 20230625212031.png",
-    "docs/训练动作/风车拉伸.md",
-    "docs/训练动作/Pasted image 20230625211948.png",
-    "docs/训练动作/Pasted image 20230625211934.png",
-    "docs/训练动作/Pasted image 20230625211914.png",
-    "docs/训练动作/世界上最伟大的拉伸.md",
-    "docs/训练动作/Pasted image 20230625211841.png",
-    "docs/训练动作/婴儿式拉伸.md",
-    "docs/训练动作/Pasted image 20230625211801.png",
+    "docs/训练动作/爬山侧蹲.md",
+    "docs/训练动作/卷腹波比.md",
     "docs/训练动作/弓步拉伸.md",
+    "docs/训练动作/卷腹.md",
+    "docs/训练动作/斜方肌拉伸.md",
+    "docs/训练动作/胸肌拉伸.md",
+    "docs/训练动作/背阔肌拉伸.md",
+    "docs/训练动作/风车拉伸.md",
+    "docs/训练动作/世界上最伟大的拉伸.md",
+    "docs/训练动作/婴儿式拉伸.md",
+    "docs/训练动作/髋外展肌拉伸.md",
+    "docs/训练动作/卧推凳臂屈伸.md",
     "docs/训练动作/平板支撑.md",
     "docs/训练动作/窄距俯卧撑.md",
-    "docs/训练动作/卷腹.md",
     "docs/训练动作/宽距俯卧撑.md",
-    "docs/训练动作/开合跳.md",
     "docs/训练动作/爬山.md",
     "docs/训练动作/标准俯卧撑.md",
-    "docs/训练动作/泡沫轴股四头肌放松.md",
     "docs/训练动作/泡沫轴梨状肌放松.md",
+    "docs/训练动作/泡沫轴股四头肌放松.md",
     "docs/训练动作/侧蹲.md",
     "docs/训练动作/深蹲跳.md",
     "docs/训练动作/YTWL 飞鸟.md",
     "docs/训练动作/RKC平板支撑.md",
-    "docs/训练动作/卧推凳臂屈伸.md",
-    "docs/训练动作/俯身倒立撑.md",
-    "docs/训练动作/卷腹波比.md",
+    "docs/训练动作/爬腿.md",
+    "docs/训练动作/Pasted image 20230625230915.png",
+    "docs/训练动作/Pasted image 20230625230609.png",
+    "docs/训练动作/Pasted image 20230625230525.png",
+    "docs/训练动作/Pasted image 20230625230511.png",
+    "docs/训练动作/Pasted image 20230625230419.png",
+    "docs/训练动作/Pasted image 20230625230406.png",
+    "docs/训练动作/Pasted image 20230625230247.png",
+    "docs/训练动作/Pasted image 20230625230232.png",
+    "docs/训练动作/Pasted image 20230625212209.png",
+    "docs/训练动作/Pasted image 20230625212156.png",
     "docs/训练动作",
     "未命名.canvas",
     "docs/管理经济学/数据结构导论.xmind",
@@ -196,9 +214,6 @@
     "obsidian_config/plugins/obsidian-git/styles.css",
     "obsidian_config/plugins/obsidian-git/manifest.json",
     "obsidian_config/plugins/obsidian-git/main.js",
-    "obsidian_config/plugins/obsidian-git/data.json",
-    "obsidian_config/plugins/obsidian-excalidraw-plugin/styles.css",
-    "obsidian_config/plugins/obsidian-excalidraw-plugin/manifest.json",
-    "obsidian_config/plugins/obsidian-excalidraw-plugin/main.js"
+    "obsidian_config/plugins/obsidian-git/data.json"
   ]
 }

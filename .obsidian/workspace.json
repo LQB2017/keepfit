@@ -168,6 +168,8 @@
   },
   "active": "37e934310c9458fd",
   "lastOpenFiles": [
+    "docs/CNAME~",
+    "CNAME",
     "docs/README.md",
     "docs/训练动作/爬山侧蹲.md",
     "docs/训练动作/卷腹波比.md",
@@ -194,7 +196,6 @@
     "docs/训练动作/RKC平板支撑.md",
     "docs/训练动作/爬腿.md",
     "docs/训练动作/Pasted image 20230625230915.png",
-    "docs/训练动作/开合跳.md",
     "docs/训练动作/Pasted image 20230625230609.png",
     "docs/训练动作/Pasted image 20230625230525.png",
     "docs/训练动作/Pasted image 20230625230511.png",
@@ -213,7 +214,6 @@
     "obsidian_config/plugins/obsidian-git/main.js",
     "obsidian_config/plugins/obsidian-git/data.json",
     "obsidian_config/plugins/obsidian-excalidraw-plugin/styles.css",
-    "obsidian_config/plugins/obsidian-excalidraw-plugin/manifest.json",
-    "obsidian_config/plugins/obsidian-excalidraw-plugin/main.js"
+    "obsidian_config/plugins/obsidian-excalidraw-plugin/manifest.json"
   ]
 }

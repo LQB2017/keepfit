@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/健身笔记：如何成为一个身材有料的人/README.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/健身笔记：如何成为一个身材有料的人/README.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/健身笔记：如何成为一个身材有料的人/README.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/健身笔记：如何成为一个身材有料的人/README.md"
+                "file": "docs/README.md"
               }
             }
           }
@@ -152,10 +152,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "28f85bb990ade671",
+  "active": "827a58dc461de3f5",
   "lastOpenFiles": [
+    "docs/CNAME",
+    "docs/健身笔记：如何成为一个身材有料的人/健身笔记：如何成为一个身材有料的人.md",
     "docs/README.md",
-    "docs/健身笔记：如何成为一个身材有料的人/README.md",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/髋外展肌拉伸.md",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/风车拉伸.md",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/胸肌拉伸.md",
@@ -179,7 +180,6 @@
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/俯身倒立撑.md",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/侧蹲.md",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/世界上最伟大的拉伸.md",
-    "docs/健身笔记：如何成为一个身材有料的人/训练动作/YTWL 飞鸟.md",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/Pasted image 20230625230915.png",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/Pasted image 20230625230609.png",
     "docs/健身笔记：如何成为一个身材有料的人/训练动作/Pasted image 20230625230525.png",
@@ -194,7 +194,6 @@
     "docs/健身笔记：如何成为一个身材有料的人/训练动作",
     "docs/健身笔记：如何成为一个身材有料的人",
     "docs/未命名",
-    "docs/CNAME",
     "docs/CNAME~",
     "CNAME",
     "未命名.canvas",
